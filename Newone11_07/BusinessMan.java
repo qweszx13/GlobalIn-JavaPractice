@@ -1,4 +1,4 @@
-package Newone;
+package Newone11_07;
 
 class Man {
     private String name;

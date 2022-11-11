@@ -1,6 +1,4 @@
-package Newone;
-
-import java.util.Scanner;
+package Newone11_07;
 
 public class Test1 {
     int num = 0;

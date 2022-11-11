@@ -1,3 +1,5 @@
+package Newone11_05;
+
 public class Rectangle {
     int num1 = 0;
     int num2 = 0;

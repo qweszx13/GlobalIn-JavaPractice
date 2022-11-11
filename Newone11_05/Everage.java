@@ -1,3 +1,5 @@
+package Newone11_05;
+
 public class Everage {
     int math;
     int science;

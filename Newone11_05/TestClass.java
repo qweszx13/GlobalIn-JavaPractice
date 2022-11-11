@@ -1,3 +1,5 @@
+package Newone11_05;
+
 import java.util.Scanner;
 
 public class TestClass {

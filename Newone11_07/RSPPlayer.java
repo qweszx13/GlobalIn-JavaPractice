@@ -1,4 +1,4 @@
-package Newone;
+package Newone11_07;
 
 public class RSPPlayer {
     public int setPlayer = 0;

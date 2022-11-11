@@ -1,3 +1,5 @@
+package Newone11_05;
+
 public class StarPrint {
     int starLine = 0;
     public StarPrint(int num){

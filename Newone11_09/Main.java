@@ -1,7 +1,5 @@
 package Newone11_09;
 
-import Newone.Rectangle;
-
 public class Main {
     // Cake,CheeseCake
 //    public static void main(String[] args) {
@@ -18,9 +16,9 @@ public class Main {
 //        ca1.milky();
 //        ca1.sweet();
 //    }
-    //Triangle,Circle-
+    //Triangle,Newone11_05.Circle-
 
-//    static double geteArea(Circle circle){ 이렇게 짤래?
+//    static double geteArea(Newone11_05.Circle circle){ 이렇게 짤래?
 //        return circle.getArea();
 //    }
 //    static double geteArea(Triangle circle){
@@ -32,7 +30,7 @@ public class Main {
 
 //    public static void main(String[] args) {
 //        double sumArea = 0;
-//        Circle cir = new Circle(10);
+//        Newone11_05.Circle cir = new Newone11_05.Circle(10);
 //        Triangle tri = new Triangle(10,10);
 //
 //        sumArea = cir.getArea()+tri.getArea();//공통 getArea 부모로 빼주세요
@@ -41,7 +39,7 @@ public class Main {
 //
 //        //
 //        double sumArea2 = 0.0;
-//        Shape[] shape = {new Circle(10),new Triangle(10,10)};
+//        Shape[] shape = {new Newone11_05.Circle(10),new Triangle(10,10)};
 //
 //        for(Shape s : shape){
 //            sumArea2 += s.getArea();//함수 오버라이딩은 자식꺼

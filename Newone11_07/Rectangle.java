@@ -1,4 +1,4 @@
-package Newone;
+package Newone11_07;
 
 public class Rectangle {
     private  int x,y,width,height;

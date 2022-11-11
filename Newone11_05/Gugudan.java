@@ -1,3 +1,5 @@
+package Newone11_05;
+
 public class Gugudan {
     public Gugudan(int num){
         for(int i=1;i<num;i++){

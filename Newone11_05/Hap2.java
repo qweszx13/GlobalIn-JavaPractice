@@ -1,3 +1,5 @@
+package Newone11_05;
+
 public class Hap2 {
     int sum = 0;
     public Hap2(int num){

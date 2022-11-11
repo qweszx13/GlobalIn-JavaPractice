@@ -1,3 +1,5 @@
+package Newone11_05;
+
 public class TE {
     String name;
     int year;
