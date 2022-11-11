@@ -1,0 +1,9 @@
+package Newone11_08;
+
+public class TV {
+    private int size;
+    public TV(int size){
+        this.size = size;
+    }
+    protected  int getSize(){return this.size;}
+}
